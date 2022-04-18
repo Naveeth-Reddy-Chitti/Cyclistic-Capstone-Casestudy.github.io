@@ -44,5 +44,5 @@ In this phase, we support our analysis using appropriate visualizations, we shar
 I have used Tableau public for the visualizations: https://public.tableau.com/app/profile/naveeth.reddy.chitti/viz/Capstonecasestudy/Dashboard1
 I have created a presentation summarizing my analysis and recommendations.
 
-### Act:
+### 6. Act:
 A presentation is created and the pp fil eis added to the repository. 
